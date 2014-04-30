@@ -9,6 +9,6 @@ use Monolog\Handler\StreamHandler;
 $log = new Logger('name');
 $log->addWarning("Running a beta version of Heroku's PHP support.");
 
-echo "Jason can do php too.";
+echo "Jason can do php too."
 
 ?>
